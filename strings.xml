@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="permission_warning">Для нормальной работы приложения нужно предоставить разрешение на показ уведомлений</string>
+    <string name="btn_grant_permission">Предоставить разрешение</string>
+    <string name="input_title_hint">Введите заголовок уведомления</string>
+    <string name="input_text_hint">Введите текст уведомления</string>
+    <string name="checkbox_non_cancellable">Non-cancellable (нельзя смахнуть)</string>
+    <string name="btn_send_notification">Отправить уведомление</string>
+
+</resources>
